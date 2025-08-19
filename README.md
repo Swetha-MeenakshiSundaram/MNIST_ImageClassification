@@ -20,7 +20,7 @@ A simple yet effective CNN was used with the following structure:
 - **Input Layer**: 28x28 grayscale image
 - **Conv2D Layer 1**: 32 filters, 3x3 kernel, ReLU
 - **Conv2D Layer 2**: 64 filters, 3x3 kernel, ReLU
-- - **MaxPooling2D Layer 1**: 2x2 pool size
+- **MaxPooling2D Layer 1**: 2x2 pool size
 - **MaxPooling2D Layer 2**: 2x2 pool size
 - **Flatten Layer**
 - **Dense Layer**: 128 units, ReLU
